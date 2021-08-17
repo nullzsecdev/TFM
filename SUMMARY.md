@@ -7,13 +7,14 @@
 * [The User Manual](manuals/user/README.md)
   * [Getting Started](manuals/user/getting-started.md)
   * [Learning and Improving](manuals/user/learning-and-improving.md)
-* [The Skills Manual](manuals/skills.md)
+* [The Skills Manual](manuals/skills/README.md)
 * [The Tools Manual](manuals/tools.md)
 * [The Products Manual](manuals/products.md)
 
 ## Cheatsheets
 
-* [SQLi](cheatsheets/sqli.md)
+* [Injections](cheatsheets/injections/README.md)
+  * [SQLi](cheatsheets/injections/sqli.md)
 
 ## Playbooks
 
