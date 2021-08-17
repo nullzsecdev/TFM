@@ -4,3 +4,5 @@ description: A collection of cheatsheets for different types of injection attack
 
 # Injections
 
+* [SQLi](sqli.md)
+

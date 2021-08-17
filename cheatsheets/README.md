@@ -4,4 +4,3 @@ description: Cheatsheets are meant to be quick references for common situations/
 
 # Injections
 
-* [SQLi](sqli.md)
