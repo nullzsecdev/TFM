@@ -12,7 +12,7 @@
     
 ## Cheatsheets
 
-* [Yet another page](another-page.md)
+* [SQLi](Cheatsheets/sqli.md)
 
 ## Playbooks
 
