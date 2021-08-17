@@ -1,7 +1,8 @@
-# Cheatsheets
+  ---
+  description: >-
+    Cheatsheets are meant to be quick references for common situations/exploits.
+  ---
 
-Cheatsheets are meant to be quick references for common situations/exploits.
-
-## Available Cheatsheets
+# Injections
 
 [SQLi](sqli.md)
