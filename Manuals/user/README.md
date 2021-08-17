@@ -1,7 +1,3 @@
-# The User Manual
-
-Table of Contents
-=====
 - [ Getting Started ]()
 	- [ Introduction to Hacking ]()
 	- [ Basic Linux and Command Line Skills ]()
