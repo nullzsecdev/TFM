@@ -1,6 +1,6 @@
 # Introduction
 
-## The F-ing Manual
+## The F\*\*king Manual
 
 TFM is a collection of tips, tricks, and guides for all things relating to CTF's, red-teaming, pentesting, and just hacking in general.
 
