@@ -18,3 +18,9 @@ You can find us on our [discord server](https://discord.gg/HgrHtj6R).
 
 See [Contributing](CONTRIBUTING.md).
 
+# Code of Conduct
+
+If you plan on contributing or being involved with the project,
+or NullzSec in general, you must abide by the [Code of Conduct](CODE_OF_CONDUCT.md).
+
+
